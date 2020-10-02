@@ -1,0 +1,5 @@
+<RunSettings>
+    <Catch2Adapter disabled="false">
+		<FilenameFilter>^Tests</FilenameFilter>
+    </Catch2Adapter>
+</RunSettings>

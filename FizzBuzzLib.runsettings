@@ -1,0 +1,5 @@
+<RunSettings>
+    <Catch2Adapter disabled="false">
+		<FilenameFilter>^FizzBuzzLibTest_</FilenameFilter>
+    </Catch2Adapter>
+</RunSettings>
